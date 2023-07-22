@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\Lishwar's Repo Sanctuary\Microservice_Projects\.metadata\.plugins\org.eclipse.jdt.core
+3597600218.index
+1865797976.index
+1269968697.index
+1703649871.index
+3790546808.index
+914700818.index
