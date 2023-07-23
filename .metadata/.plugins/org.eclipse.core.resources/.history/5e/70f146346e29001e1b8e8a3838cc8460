@@ -1,0 +1,4 @@
+server.port=8760
+spring.application.name=DBSConfig-server
+#spring.cloud.config.server.git.uri=E:/Microservices-Implementation-config/configserverdemo-profiles
+spring.cloud.config.server.git.uri=D:/Lishwar's Repo Sanctuary/Microservice_Projects/MS1-Repository
