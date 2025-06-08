@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DbsConfigServerApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() { //test file
 	}
 
 }
