@@ -16,7 +16,6 @@ import com.microservice1.model.Product;
 @FeignClient(name="PRODUCT-SERVICE")
 public interface ProductRestConsumer {
 
- 
 
     @GetMapping("product/data")
     public String getProductsData();
